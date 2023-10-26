@@ -12,7 +12,8 @@
 ## System Design
   - ### 시스템 구성도
     - 스트리밍 서비스
-      ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/142f9f18-80a9-4406-bf99-d8b790f34b16)
+      ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/ec03bdab-37c9-47fa-a04d-62182106adea)
+      
     - mp3 사운드 조절
       ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/e68d15ad-c22e-4a89-b52a-746063f7bc66)
 
