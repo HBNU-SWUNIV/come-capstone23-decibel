@@ -10,10 +10,9 @@
   - 스트리밍 서비스 이용자가 증가와 각 스트리밍 서비스의 콘텐츠 소리 크기의 기준 부재로 인한 사용자의 불편함을 느낍니다.
   - 위의 문제점을 해결하기 위하여 스트리밍 서비스를 접목하여 mp3 소리의 크기를 조절하는 프로그램입니다.
 ## System Design
-  - ### System Requirements
-    - OOO
-    - OOO
-    
+  - ### 시스템 구성도
+    ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/e68d15ad-c22e-4a89-b52a-746063f7bc66)
+
 ## Case Study
   - ### Description
   
