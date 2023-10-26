@@ -18,12 +18,10 @@
       ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/e68d15ad-c22e-4a89-b52a-746063f7bc66)
 
 ## Case Study
-  - ### Description
-  
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
+  - 웹에서 스트리밍 서비스를 제공합니다.
+  - 해당 서비스에서 mp3 음량을 조절하여서 사용자에게 제공됩니다.
   
 ## Project Outcome
 - ### 20XX 년 OO학술대회 
