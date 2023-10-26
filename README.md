@@ -11,7 +11,10 @@
   - 위의 문제점을 해결하기 위하여 스트리밍 서비스를 접목하여 mp3 소리의 크기를 조절하는 프로그램입니다.
 ## System Design
   - ### 시스템 구성도
-    ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/e68d15ad-c22e-4a89-b52a-746063f7bc66)
+    - 스트리밍 서비스
+      ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/142f9f18-80a9-4406-bf99-d8b790f34b16)
+    - mp3 사운드 조절
+      ![image](https://github.com/HBNU-SWUNIV/come-capstone23-decibel/assets/127127198/e68d15ad-c22e-4a89-b52a-746063f7bc66)
 
 ## Case Study
   - ### Description
